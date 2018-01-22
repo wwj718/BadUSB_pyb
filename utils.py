@@ -81,3 +81,5 @@ kbmap['\n'] = (0x28,PLAIN) # 回车
 #define KEY_MINUS_UNDERSCORE                   
 # kbmap['minus'] = (0x2D,PLAIN) # UNDERSCORE (0x2D,SHIFT)
 kbmap['-'] = (0x2D,PLAIN) # UNDERSCORE (0x2D,SHIFT)
+
+kbmap['&'] = (0x24,SHIFT)
